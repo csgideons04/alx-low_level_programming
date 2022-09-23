@@ -1,15 +1,13 @@
 #include "main.h"
 
 /**
-*
 **_strcat - function
 *
 *@dest:char parameter
 *
 *@src: char parameter
 *
-*Return: char value des
-*
+*Return: char value dest
 */
 
 
