@@ -25,26 +25,3 @@ char *_strcat(char *dest, char *src)
 	return (dest);
 }
 
-// int main()
-//
-// {
-//
-//      char s1[] = "Hello ";
-//
-//      char s2[] = "Adriel\n";
-//
-//     char *ptr;
-//
-//
-//
-//      ptr = _strcat(s1, s2);
-//
-//
-//
-//      printf("%s", ptr);
-//
-//
-//
-//      return (0);
-//
-// }
