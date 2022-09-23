@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strlen returns the length of a string
+ * *_strlen returns the length of a string
  * @s: string 
  * Return: returns length of interger;
  */
@@ -17,7 +17,7 @@ int _strlen(char *s)
 }
 
 /**
- * cap_string - function that capitalize first character of a word
+ * *cap_string - function that capitalize first character of a word
  * @str: string to capitalize
  * Return: returns the capitalized string
  */
